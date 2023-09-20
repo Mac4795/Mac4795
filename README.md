@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Mary-Ann, Hi there  👋 👩🏾‍💻
+<h1 align="center"> Hi, i'm Mary-Ann 👋 👩🏾‍💻
 <!-- 
 **Mac4795/Mac4795** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
